@@ -1,0 +1,14 @@
+{
+  "name": "knapsack-problem-solver",
+  "version": "1.0.0",
+  "description": "O Knapsack Solver é uma implementação em JavaScript para resolver o problema da Mochila (Knapsack Problem) utilizando programação dinâmica. A aplicação permite que o usuário insira uma lista de itens, cada um representado por um par de peso e valor, e especifica a capacidade da mochila. Em seguida, o algoritmo calcula a seleção ótima de itens que maximiza o valor total dentro da capacidade da mochila.",
+  "main": "knapsack_solver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luccas Fontes",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
