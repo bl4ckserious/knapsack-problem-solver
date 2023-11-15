@@ -16,7 +16,7 @@ git clone git@github.com:bl4ckserious/knapsack-problem-solver.git
 Navegue até o diretório do projeto:
 
 ```
-cd knapsack-solver
+cd knapsack-problem-solver
 ```
 
 Instale as dependências:
